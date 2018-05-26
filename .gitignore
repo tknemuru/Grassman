@@ -1,3 +1,6 @@
+# add custom
+.rubocop.yml
+
 *.gem
 *.rbc
 /.config
